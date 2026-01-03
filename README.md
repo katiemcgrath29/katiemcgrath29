@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am **Katie**, a **Software Development Student** in MTU Cork.
 
-I am currently working on my practical problem solving and building. 
+I am currently working on my practical problem solving and developing skills. 
 
 I currently know **Python and Java**, and I will be learning C-Programming in the coming year.
 
